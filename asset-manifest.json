@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/gov-lk-clone/static/css/main.ac971b9a.css",
+    "main.js": "/gov-lk-clone/static/js/main.b1cbe9ad.js",
+    "static/media/03.jpg": "/gov-lk-clone/static/media/03.2d70a284f6576a18491a.jpg",
+    "static/media/logo2.png": "/gov-lk-clone/static/media/logo2.2326fc26f5b0defeb9c7.png",
+    "static/media/08.jpg": "/gov-lk-clone/static/media/08.4580ec47514daf484387.jpg",
+    "static/media/12.jpg": "/gov-lk-clone/static/media/12.efc7036abdc6a3ae3a80.jpg",
+    "static/media/01.jpg": "/gov-lk-clone/static/media/01.d0dfb105432b45365894.jpg",
+    "static/media/05.jpg": "/gov-lk-clone/static/media/05.ef81d0335f9aa4059e5a.jpg",
+    "static/media/06.jpg": "/gov-lk-clone/static/media/06.2e671b21d1865273d3d6.jpg",
+    "static/media/09.jpg": "/gov-lk-clone/static/media/09.f9352cfec178a691ac40.jpg",
+    "static/media/04.jpg": "/gov-lk-clone/static/media/04.c247e68efa61f72f227d.jpg",
+    "static/media/07.jpg": "/gov-lk-clone/static/media/07.1cc29c5473107b01bf89.jpg",
+    "static/media/11.jpg": "/gov-lk-clone/static/media/11.eb7cb83df381dcfb4f49.jpg",
+    "static/media/10.jpg": "/gov-lk-clone/static/media/10.39dd502f91637d2a209e.jpg",
+    "static/media/02.jpg": "/gov-lk-clone/static/media/02.2309b5ced254b03f252d.jpg",
+    "static/media/logo1.jpg": "/gov-lk-clone/static/media/logo1.ae68551b9c95eeaeb9ff.jpg",
+    "static/media/8": "/gov-lk-clone/static/media/8.739cf4bbd158116b3a33",
+    "static/media/3": "/gov-lk-clone/static/media/3.5f25a4f06f3c06485e9f",
+    "static/media/4": "/gov-lk-clone/static/media/4.3bd6eaeb24d2e1ad8f1b",
+    "index.html": "/gov-lk-clone/index.html",
+    "static/media/1": "/gov-lk-clone/static/media/1.ffb9f11ff31dd3dd2f01",
+    "static/media/2": "/gov-lk-clone/static/media/2.96462786e99f1e54e1cd",
+    "static/media/5": "/gov-lk-clone/static/media/5.ab3dbce6b1f7c223f380",
+    "static/media/7": "/gov-lk-clone/static/media/7.28d2afd6d5337221b6dd",
+    "static/media/6": "/gov-lk-clone/static/media/6.33fec7499ca5d60f81c4",
+    "main.ac971b9a.css.map": "/gov-lk-clone/static/css/main.ac971b9a.css.map",
+    "main.b1cbe9ad.js.map": "/gov-lk-clone/static/js/main.b1cbe9ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac971b9a.css",
+    "static/js/main.b1cbe9ad.js"
+  ]
+}
